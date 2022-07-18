@@ -11,7 +11,11 @@ const cardData = [
   { name: 'Mohamed Gado', img: 'assets/mharb.webp', info: 'Sadge' },
   { name: 'Almoatasem Belah', img: 'assets/mharb.webp', info: 'QA intern' },
   //heiii
-  { name: 'Hashem Yehia', img: 'assets/mharb.webp', info: 'Computer Science student' },
+  {
+    name: 'Hashem Yehia',
+    img: 'assets/mharb.webp',
+    info: 'Computer Science student',
+  },
   // ehhhhhh
 ]
 
