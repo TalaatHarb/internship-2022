@@ -1,13 +1,24 @@
-const cardImg = document.querySelector(".card-img");
-const cardName = document.querySelector(".card-name");
-const cardInfo = document.querySelector(".card-info");
+const cardImg = document.querySelector('.card-img')
+const cardName = document.querySelector('.card-name')
+const cardInfo = document.querySelector('.card-info')
 
 const cardData = [
-
-  { name: "M. Talaat Harb", img: "assets/mharb.webp", info: "TL of Cairo 6 from the Maiia Gestion team" },
-  { name: "Mohamed Zakaria", img: "assets/mharb.webp", info: "CSEN student @ the GUC" },
+  {
+    name: 'M. Talaat Harb',
+    img: 'assets/mharb.webp',
+    info: 'TL of Cairo 6 from the Maiia Gestion team',
+  },
   { name: 'Mohamed Gado', img: 'assets/mharb.webp', info: 'Sadge' },
-  { name: "Almoatasem Belah ", img: "assets/mharb.webp", info: "QA intern at Cegedim" },
+  {
+    name: 'Mohamed Zakaria',
+    img: 'assets/mharb.webp',
+    info: 'CSEN student @ the GUC',
+  },
+  {
+    name: 'Almoatasem Belah ',
+    img: 'assets/mharb.webp',
+    info: 'QA intern at Cegedim',
+  },
   {
     name: 'Hashem Yehia',
     img: 'assets/mharb.webp',
@@ -22,21 +33,19 @@ const cardData = [
   {
     name: 'Amr Essam',
     img: 'assets/mharb.webp',
-    info: 'Hello'
+    info: 'Hello',
   },
   {
     name: 'Ahmed Elsayed',
     img: 'assets/pro.jpg',
     info: 'Hi, CE',
   },
-
 ]
 
-
 function updateCard(id) {
-  const selectedData = cardData[id];
+  const selectedData = cardData[id]
 
-  cardImg.src = selectedData.img;
-  cardName.innerHTML = selectedData.name;
-  cardInfo.innerHTML = selectedData.info;
+  cardImg.src = selectedData.img
+  cardName.innerHTML = selectedData.name
+  cardInfo.innerHTML = selectedData.info
 }
