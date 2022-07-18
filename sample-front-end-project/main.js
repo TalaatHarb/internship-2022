@@ -7,7 +7,6 @@ const cardData = [
 
   { name: "Hala Emad ", img: "assets/mharb.webp", info: "Intern" },
 
-
 ];
 
 function updateCard(id) {
