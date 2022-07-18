@@ -16,6 +16,11 @@ const cardData = [
     img: 'assets/mharb.webp',
     info: 'Computer Science student',
   },
+  {
+    name: 'MostafaEsmail5',
+    img: 'https://imgs.search.brave.com/uWySc1aj3JGNM8ymHEb8zjZMKRVBVQDG303z39YseLs/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/eDZYak1idUN2b3Ez/RVFOZ0pveUVRSGFG/aiZwaWQ9QXBp',
+    info: 'Someone else',
+  },
   // ehhhhhh
 ]
 
