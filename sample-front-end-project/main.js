@@ -9,12 +9,10 @@ const cardData = [
     info: 'TL of Cairo 6 from the Maiia Gestion team',
   },
   { name: 'Mohamed Gado', img: 'assets/mharb.webp', info: 'Sadge' },
-<<<<<<< HEAD
   { name: 'Almoatasem Belah', img: 'assets/mharb.webp', info: 'QA intern' },
   //heiii
-=======
   { name: 'Hashem Yehia', img: 'assets/mharb.webp', info: 'Computer Science student' },
->>>>>>> cc58a3a43fba8396754434a503a4436548895598
+  // ehhhhhh
 ]
 
 function updateCard(id) {
