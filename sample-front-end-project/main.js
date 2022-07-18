@@ -22,7 +22,12 @@ const cardData = [
   {
     name: 'Amr Essam',
     img: 'assets/mharb.webp',
-    info: 'Hello',
+    info: 'Hello'
+  },
+  {
+    name: 'Ahmed Elsayed',
+    img: 'assets/pro.jpg',
+    info: 'Hi, CE',
   },
 
 ]
