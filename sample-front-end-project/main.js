@@ -4,6 +4,7 @@ const cardInfo = document.querySelector(".card-info");
 
 const cardData = [
   { name: "M. Talaat Harb", img: "assets/mharb.webp", info: "TL of Cairo 6 from the Maiia Gestion team" },
+  { name: "Abdelrhman Samir", img: "assets/mharb.webp", info: "Junior SDE" },
   
 ];
 
