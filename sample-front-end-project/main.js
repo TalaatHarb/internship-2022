@@ -4,9 +4,12 @@ const cardInfo = document.querySelector(".card-info");
 
 const cardData = [
   { name: "M. Talaat Harb", img: "assets/mharb.webp", info: "TL of Cairo 6 from the Maiia Gestion team" },
+
   { name: "Mohamed Zakaria", img: "assets/mharb.webp", info: "CSEN Student @ the GUC" },
   { name: "Hashem Yehia", img: "assets/mharb.webp", info: "Computer Science Student" },
   { name: "Ahmed rashidy", img: "assets/mharb.webp", info: "trainee" },
+  { name: "Hala Emad ", img: "assets/mharb.webp", info: "Intern" },
+
 
 ];
 
