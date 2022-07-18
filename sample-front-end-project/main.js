@@ -6,6 +6,7 @@ const cardData = [
   { name: "M. Talaat Harb", img: "assets/mharb.webp", info: "TL of Cairo 6 from the Maiia Gestion team" },
   { name: "Mohamed Zakaria", img: "assets/mharb.webp", info: "CSEN Student @ the GUC" },
   { name: "Hashem Yehia", img: "assets/mharb.webp", info: "Computer Science Student" },
+  { name: "Nada Kandil", img: "assets/mharb.webp", info: "Intern @ cegedim" },
 
 ];
 
