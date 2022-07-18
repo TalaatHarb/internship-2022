@@ -9,6 +9,7 @@ const cardData = [
     info: 'TL of Cairo 6 from the Maiia Gestion team',
   },
   { name: 'Mohamed Gado', img: 'assets/mharb.webp', info: 'Sadge' },
+  { name: 'Hashem Yehia', img: 'assets/mharb.webp', info: 'Computer Science student' },
 ]
 
 function updateCard(id) {
