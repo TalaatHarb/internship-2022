@@ -35,6 +35,7 @@ const cardData = [
     info: 'CIntern @ Cegedim',
   },
   // hello world w a7la misa
+  // hello world w a7la misa 3lek tany
 
   {
     name: 'Amr Essam',
